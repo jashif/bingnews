@@ -1,0 +1,2 @@
+# bingnews
+cognitivebingapis
